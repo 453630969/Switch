@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					6931876E1E63D66200BAF40A = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = SR726YE7P3;
 						ProvisioningStyle = Automatic;
 					};
 					693187871E63D66200BAF40A = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SR726YE7P3;
 				INFOPLIST_FILE = Switch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zkbc.Switch;
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SR726YE7P3;
 				INFOPLIST_FILE = Switch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zkbc.Switch;
